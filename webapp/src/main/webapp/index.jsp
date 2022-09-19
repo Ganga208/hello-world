@@ -7,6 +7,10 @@
     <label for="Name"><b>User Name</b></label>
     <input type="text" placeholder="Enter User name" name="User Name" id="User Name" required>
     <br>
+    
+   <label for="Mobile Number"><b>User Name</b></label>
+    <input type="text" placeholder="Enter User name" name="User Name" id="User Name" required>
+    <br>
 
     <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
